@@ -238,7 +238,7 @@ const Dashboard = ({ user }) => {
                         backgroundColor: getProgressColor(task.progress),
                         color: '#fff',
                         borderRadius: '4px',
-                        padding: '0.5rem 1rem',
+                        padding: '0.5rem 0.5rem',
                         display: 'inline-block',
                       }}
                     >
